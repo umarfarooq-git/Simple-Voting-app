@@ -1,0 +1,1 @@
+It is a user could caste the vote on a web interface and another web app would show the results. Voting app would store data in redis and another worker pod will copy that data from redis to postgres data base. Result app would show the data based on postgres DB.
